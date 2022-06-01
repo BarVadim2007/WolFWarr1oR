@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="360"
+   height="100"
+   viewBox="0 0 95.249998 26.458334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="telegram_for_gh.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="3.0003928"
+     inkscape:cx="199.64053"
+     inkscape:cy="57.492472"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9558"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="47.624999,26.458334"
+       orientation="1,0"
+       id="guide6393" />
+    <sodipodi:guide
+       position="0,13.229167"
+       orientation="0,-1"
+       id="guide6395" />
+    <sodipodi:guide
+       position="11.55196,6.6145845"
+       orientation="0,-1"
+       id="guide6577" />
+    <sodipodi:guide
+       position="34.611789,19.843751"
+       orientation="0,-1"
+       id="guide6801" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#27a7e8;stroke-width:0.666001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="rect846"
+       width="95.25"
+       height="26.458334"
+       x="0"
+       y="0"
+       rx="1.4210855e-14"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="mailaddr">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Industry-Demi;-inkscape-font-specification:'Industry-Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke:none;fill:#ffffff;fill-opacity:1"
+       x="32.598816"
+       y="21.090466"
+       id="text4559"><tspan
+         sodipodi:role="line"
+         id="tspan4557"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Industry-Demi;-inkscape-font-specification:'Industry-Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke:none;fill:#ffffff;fill-opacity:1"
+         x="32.598816"
+         y="21.090466">@WolFWarr1oR </tspan></text>
+    <g
+       id="g9558"
+       transform="translate(-6.6602959)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         id="Path-3"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         fill="#ffffff"
+         d="m 36.840722,6.1819209 c 2.039824,-0.8858667 3.397764,-1.4745018 4.079648,-1.7600772 1.940748,-0.8101017 2.348713,-0.9499754 2.610976,-0.9558035 0.05828,0 0.186498,0.011656 0.273919,0.081593 0.06994,0.058281 0.08742,0.1340456 0.09908,0.1923263 0.01166,0.058281 0.02331,0.1806702 0.01166,0.2739193 C 43.811094,5.1212121 43.356504,7.8079525 43.123382,9.0435031 43.024302,9.5680294 42.831978,9.7428715 42.64548,9.7603557 42.237515,9.7953242 41.928627,9.4922646 41.538146,9.2358294 40.920371,8.8336926 40.576515,8.5830857 39.976224,8.1867769 39.282683,7.7321874 39.731445,7.4815805 40.127754,7.0736156 40.232659,6.9687104 42.021876,5.3368507 42.056845,5.191149 c 0.0058,-0.017485 0.0058,-0.087421 -0.03497,-0.1223895 -0.0408,-0.034968 -0.09908,-0.023312 -0.145701,-0.011657 -0.06411,0.011657 -1.043225,0.6644 -2.949004,1.9524035 -0.279746,0.1923264 -0.530353,0.2855755 -0.757648,0.2797475 -0.250607,-0.00583 -0.728509,-0.1398737 -1.089849,-0.2564352 -0.437105,-0.1398736 -0.786789,-0.2156385 -0.757649,-0.4604174 0.01748,-0.1282175 0.192326,-0.2564352 0.518698,-0.39048 z"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264584" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.92667px;line-height:1.25;font-family:Industry-Black;-inkscape-font-specification:'Industry-Black Bold';stroke-width:0.264583;fill:#ffffff;fill-opacity:1"
+         x="47.488686"
+         y="8.2770138"
+         id="text9101"><tspan
+           sodipodi:role="line"
+           id="tspan9099"
+           style="stroke-width:0.264583;fill:#ffffff;fill-opacity:1"
+           x="47.488686"
+           y="8.2770138">Telegram</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="linkicon" />
+</svg>
