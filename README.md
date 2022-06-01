@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](site_for_gh.svg)
+![](telegram_for_gh.svg)
+
+
+
 <!--
 **WolFWarr1oR/WolFWarr1oR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
