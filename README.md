@@ -1,21 +1,4 @@
-### Hi there 👋
-
-![](site_for_gh.svg)
-![](telegram_for_gh.svg)
-<div>
-  <img src="https://static.nenw.dev/GithubBanner.png" alt="Banner" width="100%">
-  <div>
-    <a href="https://wolfwarrior.design">
-      <img src="site_for_gh.svg" alt="Page: wolfwarrior.design" width="33.33%">
-    </a>
-    <a href="mailto:">
-      <img src="https://static.nenw.dev/GithubMail.png" alt="Mail: " width="33.33%">
-    </a>
-    <a href="https://t.me/WolFWarr1oR">
-      <img src="telegram_for_gh.svg" alt="Telegram: @WolFWarr1oR" width="33.33%">
-    </a>
-  </div>
-</div>
+<div><img src="https://static.nenw.dev/GithubBanner.png" alt="Banner" width="100%"><div><a href="https://wolfwarrior.design"><img src="site_for_gh.svg" alt="Page: wolfwarrior.design" width="33.33%"></a><a href="mailto:"><img src="https://static.nenw.dev/GithubMail.png" alt="Mail: " width="33.33%"></a><a href="https://t.me/WolFWarr1oR"><img src="telegram_for_gh.svg" alt="Telegram: @WolFWarr1oR" width="33.33%"></a></div></div>
 
 
 
