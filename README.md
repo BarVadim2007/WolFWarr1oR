@@ -37,9 +37,8 @@ WolFWarrrioR.AKA.set('wolf')
 
 
 ## 💬 More details
-* **Personal Page**: [wolfwarrior.design](https://wolfwarrior.design)
+* **Personal Page**: [wolfwarrior.eu.org](https://wolfwarrior.eu.org)
 * **Personal Blog**: [blog.wolfwarrior.design](https://blog.wolfwarrior.design)
-* **About Me Page**: [blog.wolfwarrior.design/about-me](https://blog.wolfwarrior.design/about-me/)
 * **Telegram**: [@WolFWarr1oR](https://t.me/WolFWarr1oR)
 * **Mail**: [wolf@wolfwarrior.design](mailto:wolf@wolfwarrior.design  )
 
