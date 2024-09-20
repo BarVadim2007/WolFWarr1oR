@@ -12,8 +12,6 @@ WolFWarrrioR.AKA.set('wolf')
 
 <br>
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=WolFWarr1oR&bg_color=202020&text_color=a0a0a0&title_color=ffffff)
-
 <br>
 
 ![NGINX](https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=fff)
